@@ -32,6 +32,7 @@ class User {
 		this.photos = photos;
 	}
 
+
 	public Address getAddress() {
 		return this.address;
 	}
